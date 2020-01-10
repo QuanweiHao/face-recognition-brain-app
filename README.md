@@ -1,8 +1,4 @@
-# SmartBrain - v1
+# Face Recognition Brain: An app that will detect faces in your pictures.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
+Technologies used include React, HTML5/CSS3, Tachyons, Node.js, Express, Knex/PostgreSQL, Clarifai API.
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
